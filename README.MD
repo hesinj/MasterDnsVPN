@@ -1,4 +1,4 @@
-﻿# MasterDnsVPN Project 🔐
+﻿#  MasterDnsVPN Project 🔐
 
 ## | [نسخه فارسی](https://github.com/masterking32/MasterDnsVPN/blob/main/README_FA.MD) | [English Version](https://github.com/masterking32/MasterDnsVPN/blob/main/README.MD) |
 
